@@ -46,7 +46,7 @@ public class Player_Controller : MonoBehaviour
             animator.SetBool("Running", false);
             speed = 10;
         }
-        if (translation != 0 && speed == 15)
+        if (translation != 0 && speed == 10)
         {
             animator.SetBool("Idle", false);
             animator.SetBool("Walking", true);
