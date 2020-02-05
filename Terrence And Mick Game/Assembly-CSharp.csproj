@@ -67,7 +67,7 @@
     <Compile Include="Assets\Scripts\Player_Controller.cs" />
     <Compile Include="Assets\Scripts\SwitchScene\SceneSwitcherCode\FadeInAndOut.cs" />
     <Compile Include="Assets\Scripts\SwitchScene\SceneSwitcherCode\SceneSwitcher.cs" />
-    <Compile Include="Assets\Scripts\SwitchScene\SwitchToLevel1.cs" />
+    <Compile Include="Assets\Scripts\SwitchScene\SwitchToLevel.cs" />
     <Compile Include="Assets\animations\Portal.cs" />
     <None Include="Assets\Material and layers\Samples\Terrain Assets\ThirdPartyNotices.txt" />
     <Reference Include="Unity.Timeline.Editor">
